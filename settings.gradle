@@ -1,0 +1,2 @@
+rootProject.name='KwikMart'
+include ':app'

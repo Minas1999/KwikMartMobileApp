@@ -7,7 +7,7 @@ import android.os.Handler
 
 class SplashScreen : AppCompatActivity() {
 
-    var SLEEP_SPLASHSCREEN = 5000;
+    var SLEEP_SPLASHSCREEN = 3000;
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
